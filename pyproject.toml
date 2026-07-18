@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT OR Apache-2.0"}
 authors = [
-    {name = "Allan", email = "allan@pqcrypta.com"}
+    {name = "Allan", email = "contact@pqcrypta.com"}
 ]
 keywords = ["cryptography", "post-quantum", "pqc", "encryption", "binary-format"]
 classifiers = [

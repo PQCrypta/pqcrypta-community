@@ -217,7 +217,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed code formatting issues
 
 ### Changed
-- Git author configuration set to "PQCrypta <allan@pqcrypta.com>"
+- Git author configuration set to "PQCrypta <contact@pqcrypta.com>"
 - Updated all documentation version references
 - Synchronized version numbers across all language bindings
 

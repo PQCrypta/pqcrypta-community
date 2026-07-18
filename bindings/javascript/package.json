@@ -17,7 +17,7 @@
     "webassembly",
     "wasm"
   ],
-  "author": "Allan <allan@pqcrypta.com>",
+  "author": "PQCrypta <contact@pqcrypta.com>",
   "license": "(MIT OR Apache-2.0)",
   "bugs": {
     "url": "https://github.com/PQCrypta/pqcrypta-community/issues"
